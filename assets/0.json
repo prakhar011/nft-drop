@@ -1,0 +1,19 @@
+{
+    "name": "Luffy",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BhRruTEAPqiP1rQ6NVzzp2i6pTAsj9FYmjNq6bghy2ZN",
+          "share": 100
+        }
+      ]
+    }
+  }
